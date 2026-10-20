@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/henry-seton-merriman/suspense</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2026-10-20T18:02:42Z</dc:date>
+		<meta property="dcterms:modified">2026-10-20T18:02:42Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<meta property="rdf:type">http://schema.org/Book</meta>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
@@ -40,10 +40,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<meta property="schema:abstract">Two childhood friends—a young man who has become a renowned war correspondent and a young woman who is just emerging from the shadow of her more-celebrated sister—both intelligent, independent, honorable, and self-sacrificing, discover that as events conspire against them, their characters might enable them to overcome all yet separate them forever.</meta>
+		<meta property="schema:abstract">Two childhood friends—a young man who has become a renowned war correspondent and a young woman who is just emerging from the shadow of her more-celebrated sister—discover that as events conspire against them, their characters might enable them to overcome all— yet separate them forever.</meta>
 		<dc:description>
-			&lt;p&gt;Theo Trist and Brenda Gilholme have known one another since childhood. Trist has become a renowned war correspondent for influential newspapers in London and Paris, dispatched to dangerous areas of the globe to report on the most terrible events imaginable. Brenda, until now in the shadow of her sister, a celebrated society beauty, has lived the life of the mind—immersing herself in studies of languages, mathematics, theology, and political economy—a life which Victorian society does not value for its daughters, but which Trist admires in the observant and analytical Brenda. Mrs. Wylie, a mutual friend who has supported each of them throughout their formative years, knows that their respective intelligences and senses of honor, duty, and self-sacrifice set them apart from their peers and drive them to make the most of themselves. Those same strengths tend also to divide and distance them from one another and, as Mrs. Wylie knows, time is on no one’s side.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;Suspense&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman’s&lt;/a&gt; more philosophical novels. In metacommentary, the author makes plain his acceptance of Victorian views on social roles, expectations, and responsibilities, while also celebrating those who are courageous enough to stand apart from that society to live their own lives. This early novel displays the intricate plotting, character development, and attention to place and history which are characteristic of Merriman’s later works. Though its narrative and dialogue fit squarely within the framework of contemporary Victorian fiction, &lt;i&gt;Suspense&lt;/i&gt; nevertheless demonstrates the best of that structure, even as Merriman showed with his subsequent works his desire and capability to rise above it.&lt;/p&gt;
+			&lt;p&gt;Theo Trist and Brenda Gilholme have known one another since childhood. Trist has become a renowned war correspondent for influential newspapers in London and Paris, dispatched to dangerous areas of the globe to report on the most terrible events imaginable. Brenda, until now in the shadow of her sister, a celebrated society beauty, has lived the life of the mind, immersing herself in studies of languages, mathematics, theology, and political economy—a life which Victorian society doesn’t value for its daughters, but which Trist admires in the observant and analytical Brenda. Mrs. Wylie, a mutual friend who has supported each of them throughout their formative years, knows that their respective intelligence, and their senses of honor, duty, and self-sacrifice, set them apart from their peers and drive them to make the most of themselves. Those same strengths also divide and distance them from one another—and, as Mrs. Wylie knows, time is on no one’s side.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Suspense&lt;/i&gt; is one of &lt;a href="https://standardebooks.org/ebooks/henry-seton-merriman"&gt;Henry Seton Merriman’s&lt;/a&gt; more philosophical novels. In meta-commentary, the author makes plain his acceptance of Victorian views on social roles, expectations, and responsibilities, while also celebrating those who are courageous enough to stand apart from that society to live their own lives. Though an earlier of Merriman’s works, it still displays the intricate plotting, character development, and attention to place and history which are characteristic of his later works. Though its narrative and dialogue fit squarely within the framework of contemporary Victorian fiction, &lt;i&gt;Suspense&lt;/i&gt; nevertheless demonstrates the best of that structure, even as Merriman shows with his subsequent works his desire and capability to rise above it.&lt;/p&gt;
 		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<!--Volume I-->
@@ -53,8 +53,8 @@
 		<!--Volume III-->
 		<dc:source>https://www.gutenberg.org/ebooks/74462</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/007701043</dc:source>
-		<meta property="schema:wordCount">WORD_COUNT</meta>
-		<meta property="schema:educationalLevel">READING_EASE</meta>
+		<meta property="schema:wordCount">112030</meta>
+		<meta property="schema:educationalLevel">71.24</meta>
 		<meta id="vcs-repository" property="schema:workExample">schema:workExample</meta>
 		<meta property="rdf:type" refines="#vcs-repository">http://schema.org/SoftwareSourceCode</meta>
 		<link href="https://github.com/standardebooks/henry-seton-merriman_suspense" refines="#vcs-repository" rel="schema:codeRepository"/>
@@ -81,6 +81,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Robin Whittleton</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Whittleton, Robin</meta>
+		<link href="https://www.robinwhittleton.com/" refines="#producer-2" rel="schema:url"/>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
