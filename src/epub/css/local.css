@@ -32,12 +32,10 @@ section[epub|type~="dedication"] > *{
 
 #dedication p{
 	font-style: italic;
-	text-indent: 0;
 }
 
 #dedication b{
 	font-size: larger;
-	font-style: italic;
 	font-variant: normal;
 }
 
